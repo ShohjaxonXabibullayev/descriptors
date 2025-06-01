@@ -1,3 +1,4 @@
+1.
 class Positivenumbers:
     def __init__(self, name):
         self.name = name
@@ -18,7 +19,7 @@ p = Persons()
 p.age = 20
 print(p.age)
 
-
+2.
 class Valyuta_kurslari_som:
     def __init__(self, name):
         self.name = name
@@ -72,6 +73,7 @@ print(VK.som)
 print(VK.dollar)
 print(VK.yevro)
 
+3.
 class Bank_card:
     def __init__(self, name):
         self.name = name
